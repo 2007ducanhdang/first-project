@@ -1,0 +1,4 @@
+stt,ho ten,ngay sinh,Daiso,THCS4,THCS1
+1,Truong Vo Ky,10/10/1999,8,10,9
+2,Chu Chi Nhuoc,13/9/1999,10,10,10
+3,Trieu Man,15/1/2000,9,9,10
